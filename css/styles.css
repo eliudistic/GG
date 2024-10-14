@@ -1,0 +1,29 @@
+/* Global Styles */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #0d0d0d;
+    color: white;
+}
+
+.navbar {
+    background-color: #1a1a1a;
+    padding: 15px;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+}
+
+.hero-img {
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+    display: block;
+}
+
+footer {
+    text-align: center;
+    margin-top: 50px;
+}
